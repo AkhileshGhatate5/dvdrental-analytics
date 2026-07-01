@@ -2,8 +2,8 @@
 
 
 select store.store_id,
-  count(rental.rental_id) as total_rentals,
-	sum(amount) as total_revenue 
+	count(rental.rental_id) as total_rentals,
+	sum(amount) as total_revenue
 	from store
 left join inventory
 	on store.store_id=inventory.store_id
