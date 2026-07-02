@@ -37,7 +37,15 @@ dvdrental-analytics/
 
 ## Status
 
+## Status
+
 🚧 In Progress
+
+### Completed
+- ✅ Phase 1 — SQL Queries (All 11 business questions)
+
+### In Progress
+- 🔄 Phase 2 — Pandas EDA & Data Cleaning
 
 ---
 *Findings, visualizations, and dashboard will be added as each phase is completed.*
