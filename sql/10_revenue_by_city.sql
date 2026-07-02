@@ -1,4 +1,4 @@
---Business Question 11: Which cities generate the highest rental revenue?
+--Business Question 10: Which cities generate the highest rental revenue?
 
 select city,
 	   sum(amount) as highest_rental_revenue
