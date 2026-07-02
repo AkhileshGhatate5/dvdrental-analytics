@@ -1,4 +1,4 @@
--- Business Question 7: Which actors appear in the most rented films?
+-- Business Question 6: Which actors appear in the most rented films?
 
 
 select first_name as actor_first_name,
