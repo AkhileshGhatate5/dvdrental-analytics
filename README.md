@@ -18,6 +18,7 @@ This project analyzes a DVD rental business database to uncover insights around 
 8. Revenue trend over time (monthly)
 9. Customer retention — one-time vs repeat renters?
 10. Which film rating (G, PG, R, etc.) drives the most rentals?
+11. Which customers have the highest number of late returns?
 
 ## Tools Used
 
