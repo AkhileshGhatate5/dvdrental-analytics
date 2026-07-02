@@ -1,4 +1,4 @@
--- Business Question 09: Customer retention — one-time vs repeat renters?
+-- Business Question 08: Customer retention — one-time vs repeat renters?
 
 select customer.customer_id,
 	   count(rental.rental_id) as rental_occurrence,
