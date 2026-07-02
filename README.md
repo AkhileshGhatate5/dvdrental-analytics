@@ -29,11 +29,14 @@ This project analyzes a DVD rental business database to uncover insights around 
 - **Snowflake** — cloud data warehouse integration
 
 ## Project Structure
+
+```
 dvdrental-analytics/
 ├── sql/           # SQL queries for data extraction
-├── notebooks/      # Jupyter notebooks (EDA + visualizations)
-├── dashboard/       # Power BI dashboard file/screenshots
+├── notebooks/     # Jupyter notebooks (EDA + visualizations)
+├── dashboard/     # Power BI dashboard file/screenshots
 └── README.md
+```
 
 ## Status
 
