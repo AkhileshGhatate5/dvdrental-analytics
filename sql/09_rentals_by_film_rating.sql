@@ -1,4 +1,4 @@
---Business Question 10:Which film rating (G, PG, R, etc.) drives the most rentals?
+--Business Question 9:Which film rating (G, PG, R, etc.) drives the most rentals?
 
 select rating,
 	count(rental_id) as total_rentals
