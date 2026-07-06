@@ -11,3 +11,8 @@ left join rental on
 customer.customer_id = rental.customer_id
 group by customer.customer_id
 order by count(rental.rental_id)
+
+
+-- Finding: Every customer in the DVD Rental sample rented more than once.
+-- Therefore,there are no one-time customers to compare against, 
+-- making a retention comparison visualization inappropriate for this dataset.
