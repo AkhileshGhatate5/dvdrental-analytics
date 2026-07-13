@@ -29,6 +29,15 @@ This project analyzes a DVD rental business database to uncover insights around 
 - **Power BI** — final dashboard
 - **Snowflake** — cloud data warehouse integration
 
+## Conclusion
+
+- Sports and Animation generated the highest revenue.
+- Revenue peaked during the middle months of 2005.
+- Store 2 generated slightly more rentals than Store 1.
+- Most customers in the dataset were repeat renters.
+- Certain customers consistently returned rentals late.
+
+
 ## Project Structure
 
 ```
@@ -38,10 +47,4 @@ dvdrental-analytics/
 ├── dashboard/     # Power BI dashboard file/screenshots
 └── README.md
 ```
-## Conclusion
 
-- Sports and Animation generated the highest revenue.
-- Revenue peaked during the middle months of 2005.
-- Store 2 generated slightly more rentals than Store 1.
-- Most customers in the dataset were repeat renters.
-- Certain customers consistently returned rentals late.
