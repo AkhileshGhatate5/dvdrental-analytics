@@ -17,7 +17,7 @@ This project analyzes a DVD rental business database to uncover insights around 
 7. Which actors appear in the most rented films?
 8. Revenue trend over time (monthly)
 9. Customer retention — one-time vs repeat renters?
-10. Which film rating (G, PG, R, etc.) drives the most rentals?
+10. Top 10 Cities by Total Revenue?
 11. Which customers have the highest number of late returns?
 
 ## Tools Used
