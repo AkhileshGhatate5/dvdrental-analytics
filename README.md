@@ -38,22 +38,21 @@ This project analyzes a DVD rental business database to uncover insights around 
 - Certain customers consistently returned rentals late.
 
 ## Business Questions Answered
-The dashboard answers the following business questions:
 
-### 1. Which film categories generate the highest revenue?
-Identifies the most profitable film categories by comparing total revenue across all categories. This helps understand which genres contribute the most to overall business performance.
+1. **Which film categories generate the most revenue?**  
+   Identifies the highest-earning categories to understand which genres contribute most to revenue.
 
-### 2. How has revenue changed over time?
-Analyzes monthly revenue trends to identify periods of growth or decline, helping evaluate overall business performance over time.
+2. **How has revenue changed over time?**  
+   Tracks monthly revenue trends to reveal growth patterns and seasonality.
 
-### 3. Who are the top 10 customers by total spend?
-Ranks customers based on their total spending, allowing the business to identify its highest-value customers and understand customer purchasing behavior.
+3. **Who are the top 10 customers by total spend?**  
+   Ranks customers by spending to identify the most valuable customers.
 
-### 4. Which cities generate the highest rental revenue?
-Compares total rental revenue across cities to identify the strongest performing geographic markets and support location-based business decisions.
+4. **Which cities generate the highest revenue?**  
+   Compares revenue across cities to highlight the strongest geographic markets.
 
-### 5. How are rentals distributed across film categories?
-Visualizes the rental volume of films within each category, providing an overview of customer rental preferences and category popularity.
+5. **How are rentals distributed across film categories?**  
+   Shows the rental volume of film categories to understand customer preferences and category popularity.
 
 
 ## Project Structure
