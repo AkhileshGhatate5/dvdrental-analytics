@@ -27,7 +27,7 @@ This project analyzes a DVD rental business database to uncover insights around 
 - **Matplotlib & Seaborn** — static visualizations
 - **Plotly** — interactive visualizations
 - **Power BI** — final dashboard
-- **Snowflake** — cloud data warehouse integration
+
 
 ## Conclusion
 
