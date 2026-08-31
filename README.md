@@ -54,6 +54,24 @@ This project analyzes a DVD rental business database to uncover insights around 
 5. **How are rentals distributed across film categories?**  
    Shows the rental volume of film categories to understand customer preferences and category popularity.
 
+6. How does average rental duration compare with the allowed duration?
+Compares actual rental duration with the allowed period to identify late returns.
+
+7. Which actors appear in the most rented films?
+Identifies the most frequently featured actors based on the rental popularity of their films.
+
+8. How has revenue changed over time?
+Tracks monthly revenue trends to reveal changes and patterns over time.
+
+9. Which film ratings drive the most rentals?
+Compares rental volume across film ratings to identify the ratings most preferred by customers.
+
+10. Which cities generate the highest rental revenue?
+Compares rental revenue across cities to identify the strongest-performing locations.
+
+11. Which customers have the highest number of late returns?
+Identifies customers with the most late returns to highlight recurring late-rental patterns.
+
 
 ## Project Structure
 
