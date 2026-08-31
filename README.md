@@ -42,36 +42,35 @@ This project analyzes a DVD rental business database to uncover insights around 
 1. **Which film categories generate the most revenue?**  
    Identifies the highest-earning categories to understand which genres contribute most to revenue.
 
-2. **How has revenue changed over time?**  
-   Tracks monthly revenue trends to reveal growth patterns and seasonality.
+2. **What are the peak rental months?**  
+   Identifies the months with the highest rental activity to understand rental demand over time.
 
 3. **Who are the top 10 customers by total spend?**  
    Ranks customers by spending to identify the most valuable customers.
 
-4. **Which cities generate the highest revenue?**  
-   Compares revenue across cities to highlight the strongest geographic markets.
+4. **Which store performs better — revenue & rental volume?**  
+   Compares store performance based on revenue and rental volume.
 
-5. **How are rentals distributed across film categories?**  
-   Shows the rental volume of film categories to understand customer preferences and category popularity.
+5. **What’s the most rented film per category?**  
+   Identifies the most rented film within each category to highlight popular titles.
 
-6. **How does average rental duration compare with the allowed duration?
+6. **How does average rental duration compare with the allowed duration?**  
    Compares actual rental duration with the allowed period to identify late returns.
 
-7. **Which actors appear in the most rented films?
+7. **Which actors appear in the most rented films?**  
    Identifies the most frequently featured actors based on the rental popularity of their films.
 
-8. **How has revenue changed over time?
+8. **How has revenue changed over time?**  
    Tracks monthly revenue trends to reveal changes and patterns over time.
 
-9. **Which film ratings drive the most rentals?
+9. **Which film ratings drive the most rentals?**  
    Compares rental volume across film ratings to identify the ratings most preferred by customers.
 
-10. **Which cities generate the highest rental revenue?
-   Compares rental revenue across cities to identify the strongest-performing locations.
+10. **Which cities generate the highest rental revenue?**  
+    Compares rental revenue across cities to identify the strongest-performing locations.
 
-11. **Which customers have the highest number of late returns?
-   Identifies customers with the most late returns to highlight recurring late-rental patterns.
-
+11. **Which customers have the highest number of late returns?**  
+    Identifies customers with the most late returns to highlight recurring late-rental patterns.
 
 ## Project Structure
 
